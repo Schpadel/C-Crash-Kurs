@@ -1,0 +1,1 @@
+./Hallo.out && ./Welt.out || echo "Error"
